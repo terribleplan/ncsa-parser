@@ -1,6 +1,6 @@
 {
   "name": "ncsa-parser",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A parser for NCSA style common log files",
   "main": "index.js",
   "scripts": {

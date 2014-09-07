@@ -1,0 +1,22 @@
+{
+  "name": "ncsa-parser",
+  "version": "0.0.0",
+  "description": "A parser for NCSA style common log files",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine-node spec/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terribleplan/ncsa-parser.git"
+  },
+  "author": "Kegan Myers <kegan@keganmyers.com>",
+  "license": "BSD 2-Clause",
+  "bugs": {
+    "url": "https://github.com/terribleplan/ncsa-parser/issues"
+  },
+  "homepage": "https://github.com/terribleplan/ncsa-parser",
+  "devDependencies": {
+    "jasmine-node": "^1.14.5"
+  }
+}

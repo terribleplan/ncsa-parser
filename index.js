@@ -1,2 +1,4 @@
-module.exports = require('./lib/parse.js');
-exports.Stream = require('./lib/parseStream.js');
+var exp = require('./lib/parseSimple.js'),
+    str = require('./lib/parseStream.js');
+exp.Stream = str;
+module.exports = exp;

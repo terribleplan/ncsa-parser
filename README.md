@@ -2,7 +2,7 @@ NCSA Parser
 ================
 [![License][license-image]][license-url]
 [![NPM Version][npm-version-image]][npm-url]
-[![NPM Version][tag-version-image]][github-url]
+[![Tag Version][tag-version-image]][github-url]
 [![Build Status][build-image]][build-url]
 
 NCSA Parser is a package designed to make parsing lines from and NCSA-style log
